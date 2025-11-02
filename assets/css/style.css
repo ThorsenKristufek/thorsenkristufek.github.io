@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgba(75, 2, 84, 0.4); 
   border-radius: 50% !important;
 }
 
@@ -489,10 +489,12 @@ a.hoverline:hover {
 #skills .col img.responsive-img {
   margin: 0 auto;
   max-height: 100px;
+  height: 100px;
   padding-bottom: 10px;
   text-align: center;
   vertical-align: middle;
-  display: table-cell;
+  display: block;
+  object-fit: contain;
 }
 
 .card.large .card-content p {
