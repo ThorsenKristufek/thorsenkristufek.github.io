@@ -9,7 +9,7 @@
   --medium-purple: #6a1b9a;
   --light-purple: #8e24aa;
   --text-dark: #333;
-  --text-grey: #666;
+  --text-grey: #667;
   --border-grey: #ddd;
   --bg-white: #fff;
   --bg-grey: #fafafa;
@@ -68,6 +68,11 @@ blockquote * {
 
 .teal {
   background-color: var(--primary-purple) !important;
+}
+
+.name-light {
+  color: #999 !important;
+  font-weight: 300;
 }
 
 /* ========================================
