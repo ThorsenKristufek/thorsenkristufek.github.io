@@ -21,10 +21,6 @@
 * [<b>Materialize</b>](https://materializecss.com/) - Material Design CSS framework
 * [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - Typing animation library
 
-## Contact 📫
-- **Email:** tkael.1230@gmail.com
-- **LinkedIn:** [thorsen-kristufek-10b914252](https://www.linkedin.com/in/thorsen-kristufek-10b914252/)
-- **GitHub:** [ThorsenKristufek](https://github.com/ThorsenKristufek)
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
